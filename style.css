@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.progRule {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    margin-top: 5%;
+}
+
+.progCow {
+    width: 100%;
+    border: 5px solid white;
+}
+
+h1 {
+    text-transform: uppercase;
+}
